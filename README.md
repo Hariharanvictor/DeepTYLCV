@@ -1,7 +1,7 @@
 <h1 align="center">DeepTYLCV</h1>
 <p align="center"><a href="https://balalab-skku.org/DeepTYLCV/">🌐 Webserver (CBBL-SKKU)</a> | <a href="https://zenodo.org/records/17636038">🚩 Models</a></p>
 
-The official implementation of **DeepTYLCV: An interpretable and experimentally validated AI model for predicting virulence in tomato yellow leaf curl virus**
+The official implementation of **DeepTYLCV: An interpretable and experimentally validated AI model for predicting virulence of different tomato yellow leaf curl virus strains**
 
 you can easily use DeepTYLCV tool with <a href="https://balalab-skku.org/DeepTYLCV/">🌐 Webserver (CBBL-SKKU)</a> or follow the below steps to train or inference the DeepTYLCV model.  
 
